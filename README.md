@@ -1,20 +1,20 @@
 # Module 12 - Challenge 12 : Risky Loan Business
 
 
-### Purpose
+### **Purpose**
 
  The purpose of this notebook is to utilize the imbalanced-learn library, and using logistic regression models to compare two versions of a dataset.
 
 
 ---
-### Technologies
+### **Technologies**
 
 Jupyter notebooks and the Pandas data analysis library were used in the creation of this project. Additionaly the project was created with the sklearn and imblearn libraries
 
 ---
 
 
-### Installation Guide
+### **Installation Guide**
 
 First, install the jupyter and pandas libraries. In your terminal or command shell install the following packages: 
 
@@ -42,19 +42,19 @@ This notebook was created using python 3.7.10.
 ___
 
 
-### Usage
+### **Usage**
 
 You can view the notebook through jupyterlab or alternatively in your preferred IDE of choice.
 
 ---
 
-### Conclusion
+### **Conclusion**
 
 Contained within the notebook you will find analysis, also refer to Credit_Analysis.md for a further breakdown. 
 
 ---
 
-### Contributors
+### **Contributors**
 
 Created by: Christopher Henderson
 
@@ -64,7 +64,7 @@ cdhendy@gmail.com
 
 ---
 
-### License
+### **License**
 
 (c) Copyright 2021 Chris Henderson
 
